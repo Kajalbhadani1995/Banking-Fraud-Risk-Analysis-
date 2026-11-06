@@ -13,7 +13,7 @@ The project answers eight questions about how big fraud is, and when, where and 
 6. Is there a weekday pattern in the high-risk months?
 7. Where did fraud transactions occur?
 8. Are newer or older accounts more exposed?
-9. 
+   
 ### Key Findings
 
 Fraud is small in count but large in value, and it happens only at night.

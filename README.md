@@ -25,7 +25,7 @@ Fraud is small in count but large in value, and it happens only at night.
 6. No consistent weekday pattern. No weekday is riskiest across the top 8 months. Each weekday has very few cases, so this result is indicative only.
 7. Fraud is spread across locations. Surat (50), Bhopal (47) and Nagpur (45) lead, but all 15 locations have between 31 and 50 cases.
 8. Account tenure shows a small gap. Medium-tenure accounts have the highest fraud rate (1.27%), then Old (1.20%) and New (1.08%).
-9. 
+   
 ### Recommendations
 
 The bank should focus its checks on night-time transactions, starting with Net Banking and UPI.

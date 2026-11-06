@@ -54,7 +54,7 @@ The project answers eight questions about how big fraud is, and when, where and 
 
 ### Dashboard | Power BI 
 
-![PDF alt](https://github.com/Kajalbhadani1995/Banking-Fraud-Risk-Analysis-/blob/main/Banking_Fraud_Risk_Analysis.pdf.pdf](https://github.com/Kajalbhadani1995/Banking-Fraud-Risk-Analysis-/blob/main/Banking_Fraud_Risk_Analysis.pdf))
+[📄 View PDF Report](https://github.com/Kajalbhadani1995/Banking-Fraud-Risk-Analysis/raw/main/Banking_Fraud_Risk_Analysis.pdf)
  
    
 ### Key Findings

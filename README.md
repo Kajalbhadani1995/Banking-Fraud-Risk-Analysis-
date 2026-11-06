@@ -39,6 +39,6 @@ The bank should focus its checks on night-time transactions, starting with Net B
 ### Tools
 
 The project uses MySQL for storage, Python for analysis and Power BI for the dashboard.
-• MySQL: storage for four related tables (customers, accounts, transactions, fraud_alerts)
-• Python (pandas, matplotlib, SQLAlchemy): cleaning, feature engineering and exploratory analysis
-• Power BI (DAX): 2-page dashboard with KPI cards and measures such as Fraud Rate % (fraud cases divided by total transactions)
+* MySQL: storage for four related tables (customers, accounts, transactions, fraud_alerts)
+* Python (pandas, matplotlib, SQLAlchemy): cleaning, feature engineering and exploratory analysis
+* Power BI (DAX): 2-page dashboard with KPI cards and measures such as Fraud Rate % (fraud cases divided by total transactions)

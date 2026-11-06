@@ -50,12 +50,12 @@ The project answers eight questions about how big fraud is, and when, where and 
      * Comman Fraud Type
           * Bar chart
 
+* After cleaning and analysing went to Power BI and created Dashboard.
 
 ### Dashboard | Power BI 
 
-Banking_Fraud_Risk_Analysis.pdf
-
-* After cleaning and analysing went to Power BI and created Dashboard 
+![PDF alt](https://github.com/Kajalbhadani1995/Banking-Fraud-Risk-Analysis-/blob/main/Banking_Fraud_Risk_Analysis.pdf.pdf)
+ 
    
 ### Key Findings
 

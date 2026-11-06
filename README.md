@@ -50,8 +50,7 @@ The project answers eight questions about how big fraud is, and when, where and 
      * Comman Fraud Type
           * Bar chart
      
-* After cleaning and transformation went back to MySQL using sqlalchemy and PyMySQL.
-* Wrote Quries in MySQL to solve the business problems. 
+* After cleaning and analysing went to Power BI and created Dashboard 
    
 ### Key Findings
 

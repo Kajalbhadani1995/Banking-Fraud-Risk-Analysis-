@@ -13,6 +13,23 @@ The project answers eight questions about how big fraud is, and when, where and 
 6. Is there a weekday pattern in the high-risk months?
 7. Where did fraud transactions occur?
 8. Are newer or older accounts more exposed?
+
+### End-to-End Banking Fraud Detection Analysis Using SQL, Python, and Power BI
+
+* I created a database and 4 customers, accounts, transactions, fraud_alerts and Imported the datadet in MySQL
+* Connected that database to python using SQLAlcgemy
+
+     #### Data Cleaning & Transformation 
+
+     * conveted Column names from uppercase to Lowercase.
+     * Handled the Null Values in each column 
+     * converted date column from object dtype to Datetime dtype.
+     * Removed duplicate values. 
+     * created column age_group.
+     * created logical column using def function in pandas.
+     
+* After cleaning and transformation went back to MySQL using sqlalchemy and PyMySQL.
+* Wrote Quries in MySQL to solve the business problems. 
    
 ### Key Findings
 

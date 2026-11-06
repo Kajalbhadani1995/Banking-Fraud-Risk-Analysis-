@@ -21,12 +21,34 @@ The project answers eight questions about how big fraud is, and when, where and 
 
      #### Data Cleaning & Transformation 
 
-     * conveted Column names from uppercase to Lowercase.
-     * Handled the Null Values in each column 
+     * Handled the Null Values in each column
      * converted date column from object dtype to Datetime dtype.
-     * Removed duplicate values. 
-     * created column age_group.
+     * Removed duplicate values.
+     * Converted Inconsistent formating of values.
+     * Checked outliers.
+     * Merged all 4 dataset and make it one and named it df_merged.
+     * created column transaction_weekday, transaction_month_year, acnt_open_days_category.
      * created logical column using def function in pandas.
+
+     
+     #### Data Analysis & visualisation
+  
+     * Non-Fraud Transaction VS Fraud Transaction
+          * Pie Chart
+     * Fraud Count by hour, colored by time category 
+          * Bar chart
+     * Top 8 Highest Risk Monthly by Fraud Rate
+          * Line chart
+     * Weekday-wise Fraud for the Top 8 Highest-Risk Months
+          * Subplot Bar chart
+     * Avg Count Rate of Channel
+          * Bar chart
+     * Fraud Rate by Tenure
+          * Pie chart
+     * Top 15 Fraud Location by case count
+          * Treemap Chart
+     * Comman Fraud Type
+          * Bar chart
      
 * After cleaning and transformation went back to MySQL using sqlalchemy and PyMySQL.
 * Wrote Quries in MySQL to solve the business problems. 

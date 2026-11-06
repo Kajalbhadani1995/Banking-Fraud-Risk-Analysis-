@@ -35,3 +35,10 @@ The bank should focus its checks on night-time transactions, starting with Net B
 4. Use broad controls across all fraud types. No single type dominates, so a fix for only one type will miss most cases.
 5. Compare segments by rate, not count. Channel, month and tenure rankings change when volume is taken into account.
 6. Treat weekday, month, location and tenure as secondary signals. Their differences are small, so they should not drive rules on their own.
+
+### Tools
+
+The project uses MySQL for storage, Python for analysis and Power BI for the dashboard.
+• MySQL: storage for four related tables (customers, accounts, transactions, fraud_alerts)
+• Python (pandas, matplotlib, SQLAlchemy): cleaning, feature engineering and exploratory analysis
+• Power BI (DAX): 2-page dashboard with KPI cards and measures such as Fraud Rate % (fraud cases divided by total transactions)

@@ -42,3 +42,8 @@ The project uses MySQL for storage, Python for analysis and Power BI for the das
 * MySQL: storage for four related tables (customers, accounts, transactions, fraud_alerts)
 * Python (pandas, matplotlib, SQLAlchemy): cleaning, feature engineering and exploratory analysis
 * Power BI (DAX): 2-page dashboard with KPI cards and measures such as Fraud Rate % (fraud cases divided by total transactions)
+
+### 🔗 Links and Contacts
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+[![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kajalbhadani1995)
